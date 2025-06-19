@@ -14,6 +14,7 @@ console.log("2" === 2);
 console.log("2" !== 2);
 console.log("2" != 2);
 
+console.log("\n");
 console.log("Logical Operators \n");
 
 console.log(2 > 3 && 3 < 2);
